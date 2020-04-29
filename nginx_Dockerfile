@@ -1,0 +1,3 @@
+ARG ELK_VERSION
+
+FROM nginx
